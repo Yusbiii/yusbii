@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 Lamp Controller",
+  "description": "Smart IoT dashboard to control ESP32 4-channel relays, monitor DHT11 sensor data, use voice commands, and track activity logs.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
